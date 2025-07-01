@@ -5,4 +5,5 @@ mudei arquivo
 git status ==== mostra status do arquivo
 git add ==== coloca o arquivo stage área
 git rm --cached ==== remove do stage área
-
+git restore  ==== restaura arquivo recém modificado 
+$ git commit -m "initial commit" ==== cria commit

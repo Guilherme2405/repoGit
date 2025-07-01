@@ -1,0 +1,8 @@
+enviando arquivo no repositório no github via gitbash
+
+mudei arquivo
+
+git status ==== mostra status do arquivo
+git add ==== coloca o arquivo stage área
+git rm --cached ==== remove do stage área
+

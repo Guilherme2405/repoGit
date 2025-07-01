@@ -1,0 +1,13 @@
+enviando arquivo no repositório no github via gitbash
+
+mudei arquivo
+
+git status ==== mostra status do arquivo
+git add ==== coloca o arquivo stage área
+git rm --cached ==== remove do stage área
+git restore  ==== restaura arquivo recém modificado 
+git commit -m "initial commit" ==== cria commit
+git log === histórico de commits
+git checkout (id do commit) ==== versão do arquivo do id do commit
+git checkout main/master ==== versão autal dos commits
+

@@ -28,4 +28,4 @@ O repositório contém um arquivo principal:
 - `arq.txt deletado`: arquivo foi removido do repositório.
 - `recuperando arquivo`: arquivo foi restaurado ao repositório.
 
-## 👨‍💻 Autor
+

@@ -1,1 +1,2 @@
-usando pull e push
+copiando repo usando git clone
+
